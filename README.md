@@ -1,4 +1,4 @@
-![Image](../101322548_comp3123_labtest2/ss/browser.JPG?raw=true "Browser output")
+![Image](/ss/browser.JPG?raw=true "Browser output")
 
 ![Image](/ss/postman.JPG?raw=true "Postman")
 
