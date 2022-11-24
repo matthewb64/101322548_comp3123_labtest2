@@ -1,3 +1,9 @@
+![Image](../101322548_comp3123_labtest2/ss/browser.JPG?raw=true "Browser output")
+
+![Image](/ss/postman.JPG?raw=true "Postman")
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
